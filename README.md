@@ -82,6 +82,11 @@ See `requirements.txt` for exact packages. The core libraries used:
    ```bash
    cd openlit_docker/openlit
    ```
+   
+   and
+   ```bash
+   git clone https://github.com/openlit/openlit.git
+   ``` 
 
 3. Start the OpenLIT monitoring service:
    ```bash
