@@ -52,7 +52,7 @@ See `requirements.txt` for exact packages. The core libraries used:
 ### Local Development
 1. Clone the repository and enter the project folder:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vitorjpc10/city-inquiry-ai-agent
    cd crew-ai-applications
    ```
 
